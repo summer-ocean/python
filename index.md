@@ -1,3 +1,3 @@
 [ランダム](ランダム/index.md)
 
-[Python](python/index.md)
+[実行](実行/index.md)
