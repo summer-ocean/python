@@ -1,0 +1,25 @@
+# プルダウンメニューの選択
+## value属性
+```python
+from selenium.webdriver.support.ui import Select
+
+select = Select(select_elem)
+select.select_by_value('値')
+```
+
+## テキスト
+```python
+from selenium.webdriver.support.ui import Select
+
+select = Select(select_elem)
+select.select_by_visible_text(str)
+```
+
+## index
+indexは0～
+```python
+from selenium.webdriver.support.ui import Select
+
+select = Select(select_elem)
+select.select_by_index(i)
+```
