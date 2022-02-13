@@ -1,4 +1,4 @@
 [Chrome](chrome/index.md)  
-[FireFox](fireFox/index.md)  
+[FireFox](firefox/index.md)  
 [Safari](safari.md)  
 [iPhone](iphone.md)  
