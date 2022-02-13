@@ -1,4 +1,5 @@
 [起動](起動/index.md)  
+[閉じる](閉じる/index.md)  
 
 [移動](移動/index.md)  
 
