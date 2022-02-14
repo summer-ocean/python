@@ -8,6 +8,8 @@
 
 [\<form>](form/index.md)  
 
+[チェック](チェック/index.md)  
+
 [インストール](インストール.md)  
 
 [画面](画面/index.md)  
