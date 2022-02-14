@@ -1,4 +1,4 @@
-Selenium > \<form> > プルダウンメニュー
+Selenium > \<form> > プルダウンメニュー >
 # indexで選択
 indexは0～  
 ```python
