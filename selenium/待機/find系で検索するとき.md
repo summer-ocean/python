@@ -1,5 +1,5 @@
 Selenium > 待機 >
-# 要素を検索するときの最大待機秒数
+# find系で検索するときの最大待機秒数
 ```python
 driver.implicitly_wait(sec)
 ```
