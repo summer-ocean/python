@@ -1,7 +1,7 @@
 Selenium > get
 # CSSセレクタ
 - 何も見つからない場合は```NoSuchElementException```
-- find_element()は最初の要素が返される
+- ```find_element()```は最初の要素が返される
 
 ## すべて
 ```python
