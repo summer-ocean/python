@@ -1,2 +1,2 @@
-移動
-[waitで移動](waitで移動.md)  
+移動  
+[Waitで移動](waitで移動.md)  
