@@ -4,6 +4,8 @@
 [待機](待機/index.md)  
 [移動](移動/index.md)  
 
+[要素](要素/index.md)  
+
 [クリック](クリック/index.md)  
 [キーボード](キーボード/index.md)  
 
