@@ -1,5 +1,5 @@
 Selenium > ページ
 # HTMLソース
 ```python
-HTMLソース = driver.page_source
+html_source = driver.page_source
 ```
