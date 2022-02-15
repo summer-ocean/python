@@ -1,6 +1,6 @@
 [CSSセレクタ](cssセレクタ.md)  
 [](.md)  
-[ID](ID.md)  
+[ID](id.md)  
 [](.md)  
 [](.md)  
 [](.md)  
