@@ -21,4 +21,6 @@
 
 [画面](画面/index.md)  
 
+[JavaScript](javascript/index.md)  
+
 [インストール](インストール.md)  
