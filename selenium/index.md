@@ -20,7 +20,7 @@
 [チェック](チェック/index.md)  
 
 [画面](画面/index.md)  
-[スクリーンショット](スクリーンショット/index.md)  
+[スクリーンショット](スクリーンショット.md)  
 
 [JavaScript](javascript/index.md)  
 
