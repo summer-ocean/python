@@ -4,5 +4,5 @@
 ```python
 import urllib.parse
 
-urllib.parse.quote(str, safe=':/?=&')
+url = urllib.parse.quote(str, safe=':/?=&')
 ```
