@@ -1,4 +1,4 @@
-Selenium > 待機 > ex >
+Selenium > 待機 > ex
 # CSSセレクタで待機
 ```python
 from selenium.webdriver.support.ui import WebDriverWait
