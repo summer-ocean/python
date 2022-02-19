@@ -3,6 +3,6 @@
 [driverで移動](driverで移動.md)  
 [戻る](戻る.md)  
 
-[\<frame>](frame.md)  
+[\<frame>と<iframe>](frameとiframe.md)  
 
 [ex](ex/index.md)  
