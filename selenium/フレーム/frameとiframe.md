@@ -1,5 +1,7 @@
 Selenium > フレーム
 # \<frame>と\<iframe>
+扱い方はどちらも同じ
+
 ## \<frame>
 ```html
 <frameset>
