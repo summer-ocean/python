@@ -1,0 +1,8 @@
+パス > get
+# フォルダ名一覧
+```python
+import os
+
+folder_path = os.path.dirname(path)
+folders     = folder_path.split(os.sep)
+```
