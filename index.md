@@ -2,6 +2,7 @@
 [リスト](リスト/index.md)  
 [辞書](辞書/index.md)  
 
+[パス](パス/index.md)  
 [ファイル](ファイル/index.md)  
 [フォルダ](フォルダ/index.md)  
 
