@@ -1,4 +1,4 @@
-[ログ](ログ/index.md)  
+[ログ](ログ.md)  
 
 [Chrome](chrome/index.md)  
 [iPhone](iphone/index.md)  
