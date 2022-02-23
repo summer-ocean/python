@@ -13,6 +13,6 @@
 
 [Selenium](selenium/index.md)  
 
-[Flask](Flask/index.md)  
+[Flask](flask/index.md)  
 
 [基本文法](基本文法/index.md)  
