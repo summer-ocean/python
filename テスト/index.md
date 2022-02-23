@@ -3,6 +3,8 @@
 [set up](set_up.md)  
 [tear down](tear_down.md)  
 
+[アサート](アサート/index.md)  
+
 [stdin](stdin.md)  
 [stdout](stdout.md)  
 [stderr](stderr.md)  
