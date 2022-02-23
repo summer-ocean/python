@@ -1,6 +1,5 @@
 テスト > アサート
 # =
-## ==
 ```python
 self.assertEqual(expected, actual, msg='めっせーじ')
 ```
