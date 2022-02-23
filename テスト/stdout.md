@@ -4,7 +4,7 @@
 from test.support import captured_stdout
 
 with captured_stdout() as stdout:
-	print("hello")
+	print(expected)
 	actual = stdout.getvalue()
 
 self.assertEqual(actual, expected)
