@@ -7,5 +7,5 @@ with captured_stdout() as stdout:
 	print(expected)
 	actual = stdout.getvalue()
 
-self.assertEqual(actual, expected)
+self.assertEqual(expected, actual)
 ```
