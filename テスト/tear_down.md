@@ -2,7 +2,7 @@
 # tear down
 最後に実行される
 
-## テスト()毎
+## テスト()ごとに
 ```python
 def tearDown(self):
   処理
