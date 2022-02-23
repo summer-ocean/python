@@ -2,13 +2,13 @@
 # set up
 最初に実行される
 
-## テスト()ごとに実行
+## テスト()ごとに
 ```python
 def setUp(self):
 	処理
 ```
 
-## 最初に1回だけ実行
+## 最初に1回だけ
 ```python
 @classmethod
 def setUpClass(cls):
