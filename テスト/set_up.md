@@ -12,5 +12,5 @@ def setUp(self):
 ```python
 @classmethod
 def setUpClass(cls):
-  処理
+	処理
 ```
