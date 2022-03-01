@@ -4,7 +4,7 @@ Selenium > XPath
 //*[@id='ID']
 ```
 
-## タグ + ID
+## タグ＋ID
 ```xpath
 //タグ[@id='ID']
 ```
