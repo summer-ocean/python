@@ -9,7 +9,7 @@
 [ランダム](ランダム/index.md)  
 
 [テスト](テスト/index.md)  
-[アサート](アサート.md)  
+[アサート](アサート/index.md)  
 [実行](実行/index.md)  
 
 [Selenium](selenium/index.md)  
