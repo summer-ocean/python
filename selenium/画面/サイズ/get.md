@@ -1,5 +1,6 @@
 Selenium > 画面 > サイズ
 # get
 ```python
-driver.get_window_size()
+width  = driver.get_window_size()['width']
+height = driver.get_window_size()['height']
 ```
