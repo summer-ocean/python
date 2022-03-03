@@ -1,12 +1,12 @@
 Flask > エントリポイント
 # HTTPメソッド
 同じパスに対して別々に設定できる  
-## Get
+## GET
 ```python
 @app.route('/パス', methods=['GET'])
 ```
 
-## Post
+## POST
 ```python
 @app.route('/パス', methods=['POST'])
 ```
