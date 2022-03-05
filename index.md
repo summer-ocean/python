@@ -15,6 +15,7 @@
 
 [Selenium](selenium/index.md)  
 [requests](requests/index.md)  
+[BeautifulSoup](beautiful_soup/index.md)  
 
 [Flask](flask/index.md)  
 
