@@ -26,7 +26,7 @@
 [JavaScript](javascript/index.md)  
 
 [インストール](インストール.md)  
-[ドキュメント](https://selenium-python.readthedocs.io/api.html)  
+[ドキュメント](https://selenium-python.readthedocs.io/)  
 [ページオブジェクトパターン](ページオブジェクトパターン/index.md)  
 
 [XPath](xpath/index.md)  
