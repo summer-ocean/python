@@ -20,3 +20,4 @@
 [Flask](flask/index.md)  
 
 [基本文法](基本文法/index.md)  
+[スコープ](スコープ/index.md)  
