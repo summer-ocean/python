@@ -8,6 +8,8 @@
 
 [ランダム](ランダム/index.md)  
 
+[入出力](入出力/index.md)  
+
 [テスト](テスト/index.md)  
 [ログ](ログ/index.md)  
 [アサート](アサート/index.md)  
