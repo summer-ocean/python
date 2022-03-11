@@ -1,4 +1,5 @@
 [文字列](文字列/index.md)  
+[数値](数値/index.md)  
 [リスト](リスト/index.md)  
 [辞書](辞書/index.md)  
 
