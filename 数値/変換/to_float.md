@@ -2,7 +2,7 @@
 # → float
 ## str → float
 ```python
-num = float(str_num)
+num = float(s)
 ```
 
 ## int → float
