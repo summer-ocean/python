@@ -2,6 +2,7 @@
 [数値](数値/index.md)  
 [リスト](リスト/index.md)  
 [辞書](辞書/index.md)  
+[日時](日時/index.md)  
 
 [パス](パス/index.md)  
 [ファイル](ファイル/index.md)  
