@@ -1,1 +1,1 @@
-[str → int](str_to_int.md)  
+[→ int](to_int.md)  
