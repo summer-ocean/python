@@ -7,6 +7,8 @@
 [パス](パス/index.md)  
 [ファイル](ファイル/index.md)  
 [フォルダ](フォルダ/index.md)  
+
+[テキストファイル](テキストファイル/index.md)  
 [CSV](csv/index.md)  
 
 [ランダム](ランダム/index.md)  
