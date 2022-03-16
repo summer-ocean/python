@@ -10,6 +10,7 @@
 
 [テキストファイル](テキストファイル/index.md)  
 [CSV](csv/index.md)  
+[Excel](excel/index.md)  
 
 [ランダム](ランダム/index.md)  
 
