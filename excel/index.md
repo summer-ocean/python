@@ -1,4 +1,4 @@
-[セル](セルindex.md)  
+[セル](セル/index.md)  
 [シート](シート/index.md)  
 [ブック](ブック/index.md)  
 
