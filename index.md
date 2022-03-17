@@ -9,6 +9,7 @@
 [フォルダ](フォルダ/index.md)  
 
 [テキストファイル](テキストファイル/index.md)  
+[バイナリデータ](バイナリデータ/index.md)  
 [JSON](json/index.md)  
 [CSV](csv/index.md)  
 [Excel](excel/index.md)  
