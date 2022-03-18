@@ -33,6 +33,7 @@
 [Python](python/index.md)  
 [基本文法](基本文法/index.md)  
 [コマンドライン引数](コマンドライン引数/index.md)  
+[スリープ](スリープ.md)  
 [クリップボード](クリップボード/index.md)  
 [マルチスレッド](マルチスレッド/index.md)  
 [GUI](gui/index.md)  
