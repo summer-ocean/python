@@ -30,6 +30,7 @@
 
 [Flask](flask/index.md)  
 
+[Python](python/index.md)  
 [基本文法](基本文法/index.md)  
 [コマンドライン引数](コマンドライン引数/index.md)  
 [クリップボード](クリップボード/index.md)  
