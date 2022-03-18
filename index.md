@@ -13,6 +13,7 @@
 [JSON](json/index.md)  
 [CSV](csv/index.md)  
 [Excel](excel/index.md)  
+[画像](画像/index.md)  
 
 [ランダム](ランダム/index.md)  
 
