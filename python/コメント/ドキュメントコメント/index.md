@@ -1,1 +1,1 @@
-[Googleスタイル](googleスタイル.md)  
+[Googleスタイル](googleスタイル/index.md)  
